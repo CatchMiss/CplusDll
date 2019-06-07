@@ -1,0 +1,14 @@
+E:\IT\C&C++\Demo\CPP_Dll\AppWPF\bin\Debug\AppWPF.exe.config
+E:\IT\C&C++\Demo\CPP_Dll\AppWPF\bin\Debug\AppWPF.exe
+E:\IT\C&C++\Demo\CPP_Dll\AppWPF\bin\Debug\AppWPF.pdb
+E:\IT\C&C++\Demo\CPP_Dll\AppWPF\obj\Debug\AppWPF.csprojResolveAssemblyReference.cache
+E:\IT\C&C++\Demo\CPP_Dll\AppWPF\obj\Debug\MainWindow.g.cs
+E:\IT\C&C++\Demo\CPP_Dll\AppWPF\obj\Debug\App.g.cs
+E:\IT\C&C++\Demo\CPP_Dll\AppWPF\obj\Debug\AppWPF_MarkupCompile.cache
+E:\IT\C&C++\Demo\CPP_Dll\AppWPF\obj\Debug\AppWPF_MarkupCompile.lref
+E:\IT\C&C++\Demo\CPP_Dll\AppWPF\obj\Debug\MainWindow.baml
+E:\IT\C&C++\Demo\CPP_Dll\AppWPF\obj\Debug\AppWPF.g.resources
+E:\IT\C&C++\Demo\CPP_Dll\AppWPF\obj\Debug\AppWPF.Properties.Resources.resources
+E:\IT\C&C++\Demo\CPP_Dll\AppWPF\obj\Debug\AppWPF.csproj.GenerateResource.Cache
+E:\IT\C&C++\Demo\CPP_Dll\AppWPF\obj\Debug\AppWPF.exe
+E:\IT\C&C++\Demo\CPP_Dll\AppWPF\obj\Debug\AppWPF.pdb
